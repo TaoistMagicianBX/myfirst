@@ -1,0 +1,9 @@
+cn\usian\vo\StuVo.class
+cn\usian\App.class
+cn\usian\mapper\StuMapper.class
+cn\usian\controller\GlobalExceptionResolver.class
+cn\usian\controller\DemoController.class
+cn\usian\pojo\Student.class
+cn\usian\controller\StuController.class
+cn\usian\controller\Dbproperties.class
+cn\usian\service\StuService.class
